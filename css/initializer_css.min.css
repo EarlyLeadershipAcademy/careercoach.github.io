@@ -33,7 +33,7 @@ template {
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
+    -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -9872,7 +9872,7 @@ div.hz-divider.x-large {
 }
 
 .service-item .service-icon {
-    color: #96d7a0;
+    color: #348BBF;
     display: inline-block;
     font-size: 25em
 }
@@ -13935,4 +13935,31 @@ html[xmlns] .slides {
     -moz-animation-name: rollOut;
     -o-animation-name: rollOut;
     animation-name: rollOut
+}
+
+#titleMain {
+    position: absolute;
+    left: 200px;
+    color: white;
+    font-size: 90px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+    pointer-events: none;
+    cursor: default;
+}
+
+#subtitle {
+    position: absolute;
+    left: 230px;
+    top: 210px;
+    color: white;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin: 0;
+    text-align: center;
+    pointer-events: none;
+    cursor: default;
 }

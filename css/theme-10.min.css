@@ -50,7 +50,7 @@ h6 {
 
 ::-webkit-scrollbar-thumb:vertical:hover,
 ::-webkit-scrollbar-thumb:horizontal:hover {
-    background: #1abc9c
+    background: #159CCB
 }
 
 ::-webkit-scrollbar-thumb:horizontal {
@@ -98,7 +98,7 @@ div.hz-divider.x-large {
     line-height: 50px;
     z-index: 15;
     color: #fff;
-    background-color: #1abc9c;
+    background-color: #159CCB;
     text-align: center;
     font-size: 2.5em
 }
@@ -108,7 +108,7 @@ div.hz-divider.x-large {
 }
 
 .home-screen {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     text-align: center;
     position: relative;
     padding: 1px;
@@ -717,7 +717,7 @@ div.hz-divider.x-large {
 }
 
 .btn.btn-brand {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     -moz-transition-duration: .2s;
     -o-transition-duration: .2s;
     -webkit-transition-duration: .2s;
@@ -740,7 +740,7 @@ div.hz-divider.x-large {
 }
 
 .theme-color {
-    color: #1abc9c
+    color: #159CCB
 }
 
 .navbar {
@@ -772,7 +772,7 @@ div.hz-divider.x-large {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     color: #fff
 }
 
@@ -812,7 +812,7 @@ div.hz-divider.x-large {
 }
 
 .service-item .service-title {
-    color: #1abc9c;
+    color: #159CCB;
     font-size: 4em;
     padding-bottom: 20px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5);
@@ -824,7 +824,7 @@ div.hz-divider.x-large {
 }
 
 .service-item .service-icon {
-    color: #1abc9c;
+    color: #159CCB;
     display: inline-block;
     font-size: 25em
 }
@@ -900,7 +900,7 @@ div.hz-divider.x-large {
 }
 
 .pricing {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     padding: 100px 0;
     position: relative;
     overflow: hidden
@@ -942,7 +942,7 @@ div.hz-divider.x-large {
 
 .pricing .pricing-table-item .pricing-table-price {
     padding: 30px;
-    color: #1abc9c;
+    color: #159CCB;
     font-weight: 400
 }
 
@@ -986,7 +986,7 @@ div.hz-divider.x-large {
 
 .pricing .pricing-table-item.featured-plan:after {
     content: attr(data-featured-text);
-    background-color: #1abc9c;
+    background-color: #159CCB;
     display: inline-block;
     padding: 5px 15px;
     width: 150px;
@@ -1007,12 +1007,12 @@ div.hz-divider.x-large {
 }
 
 .pricing .pricing-table-item.featured-plan .pricing-table-price .price-large {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     border: 1px solid #19b395
 }
 
 .pricing .pricing-table-item.featured-plan .pricing-table-price .price-large .price-small {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     border: 1px solid #19b395
 }
 
@@ -1095,7 +1095,7 @@ div.hz-divider.x-large {
 }
 
 .portfolio .portfolio-filtering>ul>li>a.active {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     color: #fff
 }
 
@@ -1135,7 +1135,7 @@ div.hz-divider.x-large {
     left: 5px;
     right: 5px;
     bottom: 5px;
-    background-color: #1abc9c;
+    background-color: #159CCB;
     background-color: rgba(26, 188, 156, 0.8);
     -moz-transition-duration: .4s;
     -o-transition-duration: .4s;
@@ -1147,7 +1147,7 @@ div.hz-divider.x-large {
     -webkit-transform: rotateY(90deg);
     transform: rotateY(90deg);
     opacity: 0;
-    border: 1px solid #1abc9c;
+    border: 1px solid #159CCB;
     letter-spacing: 0
 }
 
@@ -1233,7 +1233,7 @@ div.hz-divider.x-large {
 }
 
 .features {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     padding: 100px 0;
     color: #fff;
     position: relative;
@@ -1535,7 +1535,7 @@ div.hz-divider.x-large {
 }
 
 .map-holder .map-overlay {
-    background-color: #1abc9c;
+    background-color: #159CCB;
     padding: 80px 0 100px 0;
     text-align: center;
     color: white;
