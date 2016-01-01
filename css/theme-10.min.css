@@ -417,7 +417,7 @@ div.hz-divider.x-large {
 .home-screen .brand-text-slider h2 {
     margin: 0;
     padding: 5px;
-    font-size: 80px;
+    font-size: 60px;
     font-family: 'Roboto', sans-serif;
     font-weight: 300;
     color: #fff;
@@ -427,37 +427,37 @@ div.hz-divider.x-large {
 
 @media (max-width:1200px) {
     .home-screen .brand-text-slider h2 {
-        font-size: 75px
+        font-size: 55px
     }
 }
 
 @media (max-width:992px) {
     .home-screen .brand-text-slider h2 {
-        font-size: 60px
+        font-size: 40px
     }
 }
 
 @media (max-width:768px) {
     .home-screen .brand-text-slider h2 {
-        font-size: 50px
+        font-size: 30px
     }
 }
 
 @media (max-width:630px) {
     .home-screen .brand-text-slider h2 {
-        font-size: 35px
+        font-size: 15px
     }
 }
 
 @media (max-width:480px) {
     .home-screen .brand-text-slider h2 {
-        font-size: 35px
+        font-size: 15px
     }
 }
 
 @media (max-width:380px) {
     .home-screen .brand-text-slider h2 {
-        font-size: 25px
+        font-size: 5px
     }
 }
 

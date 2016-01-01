@@ -11,7 +11,7 @@ main,
 nav,
 section,
 summary {
-    display: block
+    display: block;
 }
 
 audio,
@@ -13952,14 +13952,52 @@ html[xmlns] .slides {
 
 #subtitle {
     position: absolute;
-    left: 230px;
-    top: 210px;
+    left: 400px;
+    top: 170px;
     color: white;
     font-size: 25px;
+    font-style: italic;
     font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    font-weight: 500;
     margin: 0;
-    text-align: center;
     pointer-events: none;
     cursor: default;
+}
+
+.blogText {
+    text-align: center;
+    height: 600px;
+}
+
+.abhayvarshney{
+    width: 220px;
+    height: 220px;
+    border-radius: 100px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    background: url(../img/abhayvarshney.png) no-repeat;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    position: relative;
+    left: 650px;
+    top: -210px;
+}
+
+.arunvarshney {
+    width: 220px;
+    height: 220px;
+    border-radius: 100px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    background: url(../img/arunvarshney.png) no-repeat;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    position: relative;
+    left: 100px;
+}
+
+#name1 {
+    color: black;
 }
